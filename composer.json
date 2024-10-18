@@ -1,0 +1,8 @@
+{
+    "name":"sdev/pagcontas",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
